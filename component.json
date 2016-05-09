@@ -1,0 +1,10 @@
+{
+  "name": "jquery-dotdotdot",
+  "main": "jquery.dotdotdot",
+  "version": "1.8.0",
+  "repos": "https://github.com/FrDH/jQuery.dotdotdot.git",
+  "description": "多行出现省列号",
+  "dependencies":{
+    "jquery": ">=1.6" 
+  }
+}
